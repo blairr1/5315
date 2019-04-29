@@ -91,7 +91,7 @@
     {
       "name": "Mary Blank",
       "Job Type": "Retired",
-      "Salary": "$0",
+      "Salary": "$100",
       "Age": "62",
       "Hometown": "Atlanta",
       "Favorite Food": "Fried Chicken"

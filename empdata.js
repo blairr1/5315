@@ -46,7 +46,7 @@
       "Salary": "$186000",
       "Age": "35",
       "Hometown": "Sacramento",
-      "Favorite Food": "PB&J"
+      "Favorite Food": "PB+J"
     },
     {
       "name": "Dan Manly",
@@ -61,7 +61,7 @@
       "Job Type": "Soccer Coach",
       "Salary": "$44000",
       "Age": "25",
-      "Hometown": "Los Vegas",
+      "Hometown": "Las Vegas",
       "Favorite Food": "Pasta"
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "Paul Weir",
       "Job Type": "Basketball Coach",
-      "Salary": "$2000000",
+      "Salary": "$200000",
       "Age": "45",
       "Hometown": "Austin",
       "Favorite Food": "Oysters"
@@ -114,10 +114,10 @@
     },
     {
       "name": "Rylee Noodle",
-      "Job Type": "Nujrse",
+      "Job Type": "Nurse",
       "Salary": "$80000",
       "Age": "30",
-      "Hometown": "Washington D.C",
+      "Hometown": "Washington D.C.",
       "Favorite Food": "Toast"
     }
   ]
